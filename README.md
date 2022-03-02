@@ -6,4 +6,4 @@
  2018
  compared
  ***Summary***
- One of the advantages of this is the minimalisum of it.  It allows the user to quickly find that piece of data.  A small disadvantage would be not being able to see
+ One of the advantages of this is the minimalisum of it.  It allows the user to quickly find that piece of data that is needed to make decsions or compare.  A small disadvantage would be not being able to see all the data, sometimes getting rid of data you may loose out on some information.  This is why you must be stratigic in the what and why when you are refracturing. 
